@@ -426,13 +426,7 @@ body {
     border-radius: 20px;
 }
 
-.project-card-coming {
-    opacity: 0.6;
-}
 
-.project-card-coming:hover {
-    opacity: 1;
-}
 
 
    /* CONTACT SECTION */
@@ -480,7 +474,7 @@ body {
 .footer {
     text-align: center;
     padding: 40px 20px;
-    border-top: 1px solid var(--bg-card);
+    border-top: 1px solid var(--accent-hover);
     color: var(--text-muted);
     font-size: 14px;
     font-family: monospace;
